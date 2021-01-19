@@ -6,7 +6,7 @@ The dataset contains 93 features for more than 200,000 products. The objective i
 
 In this project, the models that were used were: Random Forests, Support Vector Machines, K-means Clustering, K-Nearest Neighbors, EXtreme Gradient Boosting (XGBoost), and Neural Networks (NN). The best results were computed using an ensemble method with XGBoost and NN. These models were critiqued based on the log loss function.
 
-**The full project details can be viewed at the Wiki section.**
+**Project details can be viewed at the Wiki section.**
 
 ![image](https://user-images.githubusercontent.com/64944102/104881212-87636700-5926-11eb-9a2a-9e0a1b2d7a3e.png)
 
