@@ -8,8 +8,6 @@ In this project, the models that were used were: Random Forests, Support Vector 
 
 **The full project details can be viewed at the Wiki section.**
 
-Project by: Anushka Nair & Gunjan Neopaney
-
 ![image](https://user-images.githubusercontent.com/64944102/104881212-87636700-5926-11eb-9a2a-9e0a1b2d7a3e.png)
 
 
