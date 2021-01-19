@@ -4,7 +4,7 @@ This project was inspiried by the kaggle competetion, "Otto Group Product Classi
 
 The dataset contains 93 features for more than 200,000 products. The objective is to build a predictive model which is able to distinguish between the main product categories.
 
-In this project, the models that were used were: Random Forests, Support Vector Machines, K-means Clustering, K-Nearest Neighbors, EXtreme Gradient Boosting (XGBoost), and Neural Networks (NN). The best results were computed using an ensemble method with XGBoost and NN. These models were critiqued based on the log loss function. The method used in this project achieved a score in the top 10% of the Kaggle competition Leaderboard.
+In this project, the models that were used were: Random Forests, Support Vector Machines, K-means Clustering, K-Nearest Neighbors, EXtreme Gradient Boosting (XGBoost), and Neural Networks (NN). The best results were computed using an ensemble method with XGBoost and NN. These models were critiqued based on the log loss function. The method used in this project achieved a score in the top 10% of the Kaggle competition leaderboard.
 
 **Project details can be viewed at the Wiki section.**
 
